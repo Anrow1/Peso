@@ -31,7 +31,7 @@ export default function HomePage() {
   return (
     <>
       <div className="hero">
-        <div className="hero-eyebrow">Department of Labor and Employment</div>
+        <div className="hero-eyebrow">Public Employment Service Office - Iloilo City</div>
         <h1>Find work near home. Hire from your community.</h1>
         <p>PESO Connect lists verified job openings from registered employers in your area — no fees, no middlemen, reviewed by your local Public Employment Service Office.</p>
         <div className="search-row">
